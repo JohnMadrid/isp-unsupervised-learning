@@ -1,4 +1,4 @@
-# ips-unsupervised-learning
+# isp-unsupervised-learning
 Code on supervised vs. unsupervised learning, created for Neuromatch's Impact Scholar Program 2025.
 
 ## Environment Setup
@@ -7,7 +7,7 @@ Use the provided Conda environment file to create a reproducible environment.
 
 ```bash
 # go to the project's root directory
-cd /Users/someting/ips-unsupervised-learning
+cd /Users/someting/isp-unsupervised-learning
 # create the environment
 conda env create -f environment.yml
 
