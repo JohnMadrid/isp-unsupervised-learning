@@ -1,0 +1,22 @@
+name: isp-unsupervised-learning
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9
+  - pip
+  - ipykernel
+  - jupyterlab
+  - notebook
+  - numpy
+  - pandas
+  - scipy
+  - scikit-learn=1.6.0
+  - matplotlib
+  - seaborn
+  - tqdm
+  - umap-learn
+  - hdbscan
+  - pip:
+      # Add pip-only packages here if needed
+      - pynndescent
