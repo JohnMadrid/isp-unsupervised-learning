@@ -2,3 +2,13 @@
 datatrial_means_merged.csv
 
 data/
+
+*.pkl
+
+*.npy
+
+results/
+
+*.pkl
+
+*.npy
