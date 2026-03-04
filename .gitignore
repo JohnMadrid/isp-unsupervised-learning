@@ -12,3 +12,5 @@ results/
 *.pkl
 
 *.npy
+
+simple_model.ipynb
