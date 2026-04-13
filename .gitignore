@@ -14,8 +14,3 @@ results/
 *.npy
 
 simple_model.ipynb
-
-# Local documentation (not tracked)
-docs/
-
-.cursor/
